@@ -13,6 +13,8 @@ import java.awt.event.ItemListener;
  */
 public class HumidityMeter extends JFrame {
 
+    // Тестовая вставка.
+
     private JTree tree;
     private JLabel selectedLabel;
 
